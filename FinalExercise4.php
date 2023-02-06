@@ -45,4 +45,7 @@
     echo "<strong>Section: </strong>2ITF<br>";
     echo "<strong>Course: </strong>APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES 1 (WEB-FRONT-END)<br>";
 
+    echo "<br><strong> COSMOS TIX<br>";
+    echo "<strong>UP FAIR CUTIE<br>";
+    echo "<strong>UP PLZ<br>";
 ?>

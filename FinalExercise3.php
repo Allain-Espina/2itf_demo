@@ -58,4 +58,7 @@
     echo "<strong>Section: </strong>2ITF<br>";
     echo "<strong>Course: </strong>APPLICATIONS DEVELOPMENT AND EMERGING TECHNOLOGIES 1 (WEB-FRONT-END)<br>";
 
+    echo "<br><strong>Name: </strong>Keila Bangero Santiago<br>";
+    echo "<strong>Province: </strong>Pampanga<br>";
+    echo "<strong>Age: </strong>20<br>";
 ?>

@@ -52,6 +52,11 @@
             $str2c =  "$string2[$str2cBeg]". "$string2[$str2cMid]". "$string2[$str2cEnd]";
             $str2C = strtoupper($str2c);
             echo "\"$str2C\"". "<br>";
+            
+            echo "<br><strong>Name: </strong>Keila Santiago<br>";
+            echo "<strong>Section: </strong>2ITF<br>";
+            echo "<strong> Birthday: <strong>December 13,2002";
+
 
         ?>
     </body>

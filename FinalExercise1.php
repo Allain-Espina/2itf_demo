@@ -18,6 +18,7 @@
             echo "<strong>Original String:</strong> $string2". "<br>";
             echo "<strong>First Letter of Words to Uppercase:</strong> ". ucwords($string2). "<br>";
             echo "<strong>Number of Characters (Length):</strong> ". strlen($string2). "<br>";
+            echo "<strong>KEILA BANGERO SANTIAGO WAS HERE <33333 <strong>";
 
         ?>
     </body>
